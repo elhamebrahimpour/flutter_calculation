@@ -1,7 +1,7 @@
 # flutter_calculation
 
 My published flutter project in github.
-* math_expressions pckage have used in this project
+* math_expressions package have used in this project
 * Dart
 
 ## Getting Started
